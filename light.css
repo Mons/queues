@@ -1,0 +1,29 @@
+.remark-slide-content {
+	/*text-shadow: 0 0 20px #333;*/
+}
+
+h1, h2, h3 {
+	/*color: #e2e2e2;*/
+}
+
+.red {
+	/*color: #FF4444;*/
+}
+.green {
+	/*color: #44FF44;*/
+}
+
+* code.remark-code.hljs {
+    box-shadow: 0 0 20px 6px rgba(255,255,0,0.5);
+    border-radius: 5px;
+}
+
+.remark-code-line-highlighted, .remark-code-span-highlighted {
+	background-color: rgba(255, 230, 0, 0.5);
+    box-shadow: 0 0 15px 5px rgba(255, 255,0,0.3);
+}
+
+.not .remark-code-line-highlighted, .not .remark-code-span-highlighted {
+    background-color: rgba(255, 0, 0, 0.5);
+    box-shadow: 0 0 15px 5px rgba(255, 0, 0, 0.3);
+}

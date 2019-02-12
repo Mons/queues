@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="522px"
+   height="222px"
+   viewBox="-0.5 -0.5 522 222"
+   id="svg5453"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pc-methods-1.svg">
+  <metadata
+     id="metadata5515">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1443"
+     inkscape:window-height="858"
+     id="namedview5513"
+     showgrid="false"
+     inkscape:zoom="1.1487099"
+     inkscape:cx="194.04867"
+     inkscape:cy="89.447128"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5453" />
+  <defs
+     id="defs5455" />
+  <circle
+     style="fill:#f8cecc;stroke:#b85450"
+     r="40"
+     id="ellipse5459"
+     pointer-events="none"
+     cy="110"
+     cx="80" />
+  <g
+     id="g5461"
+     transform="translate(55.5,104.5)">
+    <switch
+       id="switch5463">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="11"
+         width="48"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 50px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Producer</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text5465"
+         font-size="12px"
+         y="12"
+         x="24">Producer</text>
+    </switch>
+  </g>
+  <circle
+     style="fill:#d5e8d4;stroke:#82b366"
+     r="40"
+     id="ellipse5477"
+     pointer-events="none"
+     cy="110"
+     cx="440" />
+  <g
+     id="g5479"
+     transform="translate(411.5,104.5)">
+    <switch
+       id="switch5481">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="11"
+         width="56"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 57px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Consumer</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text5483"
+         font-size="12px"
+         y="12"
+         x="28">Consumer</text>
+    </switch>
+  </g>
+  <rect
+     style="fill:#dae8fc;stroke:#6c8ebf"
+     id="rect5485"
+     pointer-events="none"
+     height="60"
+     width="120"
+     y="80"
+     x="200" />
+  <path
+     style="fill:none;stroke:#6c8ebf;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path5487"
+     pointer-events="none"
+     stroke-miterlimit="10"
+     d="m 212,80 0,60 m 96,-60 0,60" />
+  <g
+     id="g5489"
+     transform="translate(241.5,104.5)">
+    <switch
+       id="switch5491">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="11"
+         width="36"
+         pointer-events="all"
+         style="overflow:visible;">
+        <xhtml:div
+           style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 38px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+          <xhtml:div
+             style="display:inline-block;text-align:inherit;text-decoration:inherit;">Queue</xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text5493"
+         font-size="12px"
+         y="12"
+         x="18">Queue</text>
+    </switch>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="343.36404"
+     y="117.03498"
+     id="text6096"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan6098"
+       x="343.36404"
+       y="117.03498"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Take</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text6127"
+     y="117.03498"
+     x="146.62158"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
+       y="117.03498"
+       x="146.62158"
+       id="tspan6129"
+       sodipodi:role="line">Put</tspan></text>
+</svg>
